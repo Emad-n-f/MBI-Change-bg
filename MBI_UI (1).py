@@ -5,6 +5,7 @@ win = Tk()
 win.geometry('350x200+550+280')
 win.resizable(0,0)
 win.title('Emad noudeh farahani') 
+print('??????????????????????')
 
 def mbi():
     if (len(ent_h.get()) >= 1 and len(ent_w.get())) >= 1:
